@@ -1,6 +1,6 @@
 # 💼 Personal Portfolio Website
 
-Welcome to my personal portfolio website! 🚀 This site showcases my skills, projects, and experience as a **Data Analyst & Software Developer**. 
+Welcome to my personal portfolio website! 🚀 This site showcases my skills, projects, and experience as a **Data Analyst**. 
 
 ## 🌐 Live Demo
 👉 [Visit My Portfolio](https://samirnavadiya.github.io/)  
